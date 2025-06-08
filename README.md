@@ -9,7 +9,7 @@
 
 **Una aplicación de consola inteligente para gestionar tu biblioteca digital**
 
-[Características](#-características) • [Instalación](#-instalación) • [Uso](#-uso) • [API](#-api-reference) • [Contribuir](#-contribuir)
+[Características](#-características) • [API](#-api-reference)
 
 </div>
 
