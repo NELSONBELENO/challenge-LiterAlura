@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/NELSONBELENO/challenge-LiterAlura/blob/main/Badge-LiterAlura.webp" alt="Badge Spring" width="300"/>
+</p>
+
 # 📚 Literalura
 
 <div align="center">
